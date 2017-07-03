@@ -1,0 +1,37 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  background-color: purple;
+}
+img{
+    height: 50%;
+    width: 50%;
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+.centerContent{
+    text-align: center;
+}
+.background{
+    background-color: purple;
+}
+.jumbotron .Jcontainer{
+    background-color: green;
+}
+.Navbar-header{
+    background-color:lightseagreen;
+}
+File_000.jpeg{
+    height:50%;
+    width:50%;
+}
+.glyphicon-chevron-right{
+    color:green;
+    font-size: x-large;
+    margin-top: 10px;
+}

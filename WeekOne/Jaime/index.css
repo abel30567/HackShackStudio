@@ -1,0 +1,19 @@
+body{
+    background-color:red;
+}
+img{
+    height:70%;
+    width:70%;
+}
+h1{
+    color: yellow;
+}
+.centerContent{
+    text-align: center
+}
+.gamecontainer{
+    margin-left:20%;
+}
+.glyphicon-triangle-right{
+    font-size:2em;
+}

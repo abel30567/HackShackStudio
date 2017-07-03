@@ -1,0 +1,16 @@
+body{
+background-color: purple;
+}
+img{
+    height: 50%;
+    width: 50%;
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+.centerContent{
+    text-align: center;
+}

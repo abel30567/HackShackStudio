@@ -1,0 +1,13 @@
+body{
+    background-color:purple !important;
+}
+.centerContent{
+    text-align: center;
+}
+.glyphicon-chevron-left{
+    color:green;
+    font-size:x-large;
+}
+h1{
+    color: green;
+}

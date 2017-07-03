@@ -1,0 +1,12 @@
+body{
+    background-color: blue !important;
+}
+.centerContent{
+    text-align: center
+}
+.gamecontainer{
+    margin-left:20%;
+}
+.glyphicon-triangle-left{
+    font-size:2em;
+}

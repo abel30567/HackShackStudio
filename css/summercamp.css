@@ -1,0 +1,84 @@
+body{
+    background-color: white;
+}
+h1{
+    color:white !important;
+    margin-right: 15px !important;
+    font-family: 'Raleway', sans-serif !important;
+}
+h2{
+    margin-bottom:15px !important;
+    color: white !important;
+    margin-right: 15px !important;
+    font-family: 'Raleway', sans-serif !important;
+}
+p{
+    margin: 45 0 62px !important;
+    font-weight: bold;
+    font-size: 6em;
+    font-family: 'Raleway', sans-serif;
+}
+.weekTitle{
+    border-top: 1px black solid;
+    border-left: 1px black solid;
+    border-bottom: 1px black solid;
+}
+.weekDay{
+    border-top: 1px black solid;
+    padding: 0 !important;
+    border-bottom: 1px black solid;
+    height: 162px;
+}
+.lastWeekDay{
+    padding: 0 !important;
+}
+.friday{
+    border-right: 1px black solid;
+    border-top: 1px black solid;    
+    border-bottom: 1px black solid;
+    height: 162px;
+    width: 40px !important;
+}
+.coder{
+    background-color: #8DC52F;
+        direction: rtl;
+}
+.designer{
+    background-color: #DD5CA3;
+        direction: rtl;
+}
+.robotics{
+    background-color: #FCC000;
+        direction: rtl;
+}
+.schedule{
+    margin-left: 100px;
+}
+footer{
+    height:100px;
+    font-family: 'Raleway', sans-serif !important;
+}
+footer h3{
+    color: #686868;
+    font-size: 18px !important;
+}
+.schedule a{
+    color:black !important;
+}
+.campers{
+    text-align: center;
+}
+.campers p{
+    margin-left: 30% !important;
+}
+.campers img{
+    height: 30%;
+    width: 30%;
+}
+.campers button{
+    background: transparent;
+    border: none;
+}
+.camper:focus{
+    outline: none;
+}
